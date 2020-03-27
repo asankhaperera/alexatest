@@ -1,0 +1,67 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "eb606754-23c0-4605-8807-49e672a6aea1": {
+        "id": "eb606754-23c0-4605-8807-49e672a6aea1",
+        "parent": null,
+        "name": "AlexaTest.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "AlexaTest.js",
+        "cursor": {
+          "lineNumber": 171,
+          "column": 37
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "eb606754-23c0-4605-8807-49e672a6aea1"
+    ],
+    "currentFileId": "eb606754-23c0-4605-8807-49e672a6aea1",
+    "resources": {},
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "AlexaTest",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "platformRegions": {},
+    "lastSave": 1585302437709,
+    "language": "nodejs"
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "alexatest",
+      "url": "https://github.com/asankhaperera/alexatest"
+    }
+  }
+}
